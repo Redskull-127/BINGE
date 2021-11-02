@@ -156,6 +156,7 @@ a.main-button-slider {
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
+  
 }
 
 a.main-button-slider:hover {
@@ -227,6 +228,13 @@ button.main-button:hover {
   color: #888;
   text-align: center;
 }
+
+.left-heading p b {
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+
 
 
 /* 
