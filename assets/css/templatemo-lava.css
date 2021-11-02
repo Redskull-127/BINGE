@@ -772,11 +772,32 @@ about
   font-size: 100px;
   font-weight: 600;
   color: #fdefe9;
+}.features-item h1 {
+  z-index: 9;
+  position: absolute;
+  top: 15px;
+  bottom: 15px;
+  left: 45px;
+  text-align: center;
+  font-size: 100px;
+  font-weight: 600;
+  color: #fdefe9;
+}
+
+.features-meer h1 {
+  z-index: 9;
+  top: 15px;
+  bottom: 20px;
+  font-size: 80px;
+  font-weight: 600;
+  text-align: center;
+  margin-bottom: 40px;
 }
 
 .features-item img {
   z-index: 10;
   position: relative;
+  align-content: center;
   max-width: 100%;
   margin-bottom: 40px;
 }
